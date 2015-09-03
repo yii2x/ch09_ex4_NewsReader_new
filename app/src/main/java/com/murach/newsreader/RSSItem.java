@@ -17,7 +17,7 @@ public class RSSItem {
         new SimpleDateFormat("EEEE h:mm a (MMM d)");
     
     private SimpleDateFormat dateInFormat = 
-        new SimpleDateFormat("EEE, dd MMM yyyy HH:mm:ss Z");
+        new SimpleDateFormat("EEE, dd MMM yyyy HH:mm:ss");
     
     public void setTitle(String title)     {
         this.title = title;
