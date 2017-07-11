@@ -2,11 +2,22 @@
 <items version="2" >
 
     <item
-        jar="C:\Android SDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="C:\Users\leticia.rabor\AndroidstudioProjects\ch09_ex4_NewsReader\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-26592129f9270d1254b5f2cea2bf6a5b807a2054.jar" />
+        is-multidex="true"
+        jar="C:\Users\660161742\AndroidStudioProjects\ch09_ex4_NewsReader_new\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05c32df26380d8b8082eadeb0a996955f85f7be9">
+        <dex dex="C:\Users\660161742\AndroidStudioProjects\ch09_ex4_NewsReader_new\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_28bd9de2b1656b2df8325df9b5b9898c32b29cdd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\660161742\AndroidStudioProjects\ch09_ex4_NewsReader_new\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\660161742\AndroidStudioProjects\ch09_ex4_NewsReader_new\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cb8fec3a4394d00286366927e20201802009e126\classes.dex" />
     </item>
 
 </items>
